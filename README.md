@@ -2,7 +2,7 @@
 
 ## Building a Circular Bitcoin Economy with Solar Powered Immersion Cooled Mining Farms in Rural TN
 
-### Costs
+### Mining Costs
 
 <details>
 
@@ -51,7 +51,7 @@
 
 ####   $150k funding
 
-### Revenue
+### Revenue Streams
     
 - Solar Bitcoin Mine
 
@@ -59,15 +59,15 @@ Target: 10 BTC / Year - > 3 Blocks
 
 - Solo Mining Hardware Sales
 
-Target: .01 BTC / Year - $1100 - 11 Bitaxes
+Target: .1 BTC / Year - $10,000 - 100 Bitaxes
 
 - Bitcoin Wallet Sales 
 
-Target: .01 BTC / Year - $1100 - 20+ Wallets
+Target: .21 BTC / Year - $24,145 - 300+ Wallets
 
 - Lightning Piggy Bank Sales 
 
-Target .005 BTC / Year - $600 - 10 banks
+Target 2.1 BTC / Year - $230,000 - 3834 banks
 
 ### Circular Economy Goals
 
@@ -81,17 +81,21 @@ Target .005 BTC / Year - $600 - 10 banks
 
 + Solar Farm(s) Buildout
 
-    Up to 200 kW -> Bitcoin Mine
+    Up to 200 kW -> Bitcoin Mine Only
 
-    1 MW and beyond -> Solar Farm
+    1 MW and beyond -> Bitcoin Mine and TVA Approved Solar Farm
 
 + Build a locally supported ASIC Mining Pool
 
 + Recruit Support Staff
 
-    Staff will Run Bitcoin Diploma Sessions/Cohorts
+    Staff will 
     
-    and share information on Mining (get a solo miner) and Hardware Wallets
+    Run Bitcoin Diploma Sessions/Cohorts
+    
+    Run Bitcoin Mining and Hardware Wallets Workshops
+
+    Procure/Assemble Miners, Wallets, PiggyBanks for Sale
 
 + Look into HydroPower from Whiteville Lake
 
@@ -120,10 +124,11 @@ Target .005 BTC / Year - $600 - 10 banks
     Community Need
 
 
-
+-----------------------------
 3rd Parties
 -----------------------------
-Mining Equipment
+Mining Equipment Wholesellers/Resellers
+
 
 Solar Supplier-
     
@@ -142,3 +147,9 @@ Local Leaders
     
     TVA / Bolivar Energy Authority / Southwest TN Electric
 
+-----------------------------
+Hardware Pricing
+-----------------------------
+[Synteq Digital](https://synteq.digital/hardware/pricing/)
+$13224 1910T / 1.9PH
+$56820.8 3950TH / 3.950 PH
