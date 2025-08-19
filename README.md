@@ -2,15 +2,36 @@
 
 ## Building a Circular Bitcoin Economy with Solar Powered Immersion Cooled Mining Farms in Rural TN
 
+### Power Estimates
+
+#### Miner Output and Power Usage
+
+1 [Rig](https://proto.xyz/products/rig) produces 819TH/s
+@ 12,000W Power
+
+1 [S23 Hydro](https://shop.bitmain.com/product/detail?pid=00020250525151230946ki4IicUp06D6) produces 580 TH/s
+@ 5510W
+
+1 [S21 XP Imm](https://shop.bitmain.com/product/detail?pid=00020241217151344758RApdmxn506E8) produces 300 TH/s
+@ 4050W 
+
+#### Solar System Estimates
+
+1 [SunWatts](https://sunwatts.com/4-kw-solar-kits/) 4kW system ~ $8000
+        10 400W panels
+        2 Batteries
+        Inverter
+        Additional Parts
+
 ### Mining Costs
 
 <details>
 
-<summary>Single Miner Estimate</summary>
+<summary>Single Miner and Power Estimate</summary>
 
     Miners
 
-    1 300TH/s Immersion Cooled Miner ~ $7000
+    1 S21 300TH/s Immersion Cooled Miner ~ $7000
 
     Solar System Equipment
 
@@ -24,7 +45,7 @@
 ####    ~ $15k = 300TH/s , 4kW
 
 <details>
-<summary>Profitable Mining of 1 Block / Year = 15 PH / 15000 TH</summary>
+<summary>Goal of Mining 1 Block / Year = 15 PH / 15000 TH</summary>
 
 ###### Phase1 - $30k in equipment costs
 - .5PH / 500TH
@@ -151,5 +172,20 @@ Local Leaders
 Hardware Pricing
 -----------------------------
 [Synteq Digital](https://synteq.digital/hardware/pricing/)
+
 $13224 1910T / 1.9PH
+
 $56820.8 3950TH / 3.950 PH
+
+https://supplyleader.com/bitmain
+
+https://www.millionminer.us/product_categories/bulk-deals/
+
+https://blokforge.com/product-category/new-miners/?filter_algorithm=sha256
+
+https://www.bitasics.com/
+
+https://asicwholesale.com/
+
+https://www.bulkminers.com/
+
