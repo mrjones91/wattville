@@ -1,3 +1,5 @@
+# Mining Rigs and Power Sources
+
 ## Minimum
 
 | Miner       |   Watts   |   Price   |   Hashrate    |   Link |
@@ -22,3 +24,14 @@
 | -----------                  | --------- | --------  | -----------   | ----------- |
 | Rig              |    12,000W  |   ???     |  819TH/s  | https://proto.xyz/products/rig |
 | Antminer U3S23H  |    11,020W   |  $30,000  |  1.160PH/s | https://shop.bitmain.com/product/detail?pid=00020241217151344758RApdmxn506E8 |
+
+# Questions/Notes for Electrical Engineer:
+
+January power rates from Southwest TN Electric were 12 cents per kWh
+
+What are the Power requirements for each tier of Miner to run 24/7?
+
+The objective goal is to have a site that generates 15PH/s. Given the numbers in the Full-Scale tier, that could be 150,000 W aka 150KW
+
+My desire for solar would be to secure the energy and build a resilient system that can power such a site for 20+ years.
+Another desire that is satisfied by this would be locking in the price of power and not having a continued bill for power, that could increase, going forward.
