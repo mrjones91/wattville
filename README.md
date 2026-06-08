@@ -1,197 +1,70 @@
 # Wattville, TN
 
-## Building a Circular Bitcoin Economy with Solar Powered Immersion Cooled Mining Farms in Rural TN
+## Objective:
 
-### Power Estimates
+## Building an Enrichinged Living and Economic Experience in Rural TN
 
-#### Miner Output and Power Usage
+[## Building a Circular Bitcoin Economy with Solar Powered Immersion Cooled Mining Farms in Rural TN]::
 
-[See the Scope Page for Full List of Potential Miners](./Scope.md)
+## Outline:
 
-1 [Rig](https://proto.xyz/products/rig) produces 819TH/s
-@ 12,000W Power
-288KW/Day
+This, and the included documents and resources, are an outline for the establishment of a renaissance in lifestyle, economy, and overall ecosystem of small town life in West Tennessee.
 
-1 [S23 Hydro](https://shop.bitmain.com/product/detail?pid=00020250525151230946ki4IicUp06D6) produces 580 TH/s
-@ 5510W
+By investing in renewable energy and utilizing modern technological resources, new avenues of running businesses, supporting your family, and even entertainment are possible. Relying on old structures and processess has lead to severe brain drain and impoverishment for several decades. The time is now to set a course for a better future.
 
-1 [S21 XP Imm](https://shop.bitmain.com/product/detail?pid=00020241217151344758RApdmxn506E8) produces 300 TH/s
-@ 4050W 
+### Components
 
-#### Solar System Estimates
+Renewable Energy Generation and Monetization
+    Run on Solar and other Renewable Power
+    Model for business and community
 
-1 [SunWatts](https://sunwatts.com/4-kw-solar-kits/) 4kW system ~ $8000
-        10 400W panels
-        2 Batteries
-        Inverter
-        Additional Parts
-4 * 24 * 365 = 35000. $3500
+Business Innovation
+    Server Colocation
+    Smart Community-Gym
+    Family Fun
 
-12kw system maybe
-
-Full Substation Construction?
-Grid reliability?
-
-[500 kW System]()
-500,000W
-
-##### Battery Estimates
-
-[Battery Options](https://sunwatts.com/20-kwh-solar-battery/)
-
-### Mining Costs
-
-<details>
-
-<summary>Single Miner and Power Estimate</summary>
-
-    Miners
-
-    1 S21 300TH/s Immersion Cooled Miner ~ $7000
-
-    Solar System Equipment
-
-    1 4kW system ~ $8000
-        10 400W panels
-        2 Batteries
-        Inverter
-        Additional Parts
-</details>
-
-####    ~ $15k = 300TH/s , 4kW
-
-<details>
-<summary>Goal of Mining 1 Block / Year = 15 PH / 15000 TH</summary>
-
-###### Phase1 - $30k in equipment costs
-- .5PH / 500TH
-- 2 500TH / 5 200TH miners 
-- $15k for each miner + panels (8kw) - 12kw solar system
-- 0 - 1 blocks / year   - 1% chance
-
-###### Phase2 - 
-- 1PH /1000TH
-- Additional 8kw in solar - 20kw solar system
-- 0 - 1 blocks / year  - 6% chance / year 
-
-###### Phase3
-- 5PH / 5000TH
-- Additional 8kw in solar - 28kw solar system
-- 0 - 1 blocks / year - 25% chance / year 
-
-###### Phase4
-- 10PH / 10000TH
-- Additional 8kw in solar - 36kw solar system
-- 0 - 1 blocks / year - 50% chance / year 
-
-###### Phase5 - $150k Total in Equipment
-- 15PH / 15000TH
-- Additional 8kw in solar - 44kw solar system
-- 1 - 3 blocks / year - 100% chance / year
-</details>
-
-####   $150k funding
+Education
+    STEM Environment and Courses
+    21st Century Financial Literacy
 
 
-1000 panels
-100 batteries
-30 miners
+#### Power
 
-### Revenue Streams
+Solar Power
+
+[Details](./Power.md)
+
+#### Business
+
+Event Center
+
+Semi-Private Strength Gym
+- 2 Squat Racks
+- Tonal System
+- Walking Routes
+- Semi-Annual Contests
+- Solar Powered
+- Smart Keys
+- App
+
+#### Education
+
+Restore Allen White High School to a Historic Site
+Financial Literacy - Assets, Monies, Strategy
+STEM Environment
+
+### Revenue
     
-- Solar Bitcoin Mine
+10-15 BTC/Year
 
-Target: 10 BTC / Year - > 3 Blocks
-
-- Solo Mining Hardware Sales
-
-Target: .1 BTC / Year - $10,000 - 100 Bitaxes
-
-- Bitcoin Wallet Sales 
-
-Target: .21 BTC / Year - $24,145 - 300+ Wallets
-
-- Lightning Piggy Bank Sales 
-
-Target 2.1 BTC / Year - $230,000 - 3834 banks
-
-### Circular Economy Goals
-
-+ Onboard Church and Community Orgs
-
-    Guide organization to Diversify Savings by saving in Bitcoin
-    
-    Encourage and enable them to Accept and Give Donations in Bitcoin
-    
-    Partner with them to provide access to Bitcoin Diploma and Bitcoin education workshops
-
-+ Solar Farm(s) Buildout
-
-    Up to 200 kW -> Bitcoin Mine Only
-
-    1 MW and beyond -> Bitcoin Mine and TVA Approved Solar Farm
-
-+ Build a locally supported ASIC Mining Pool
-
-+ Recruit Support Staff
-
-    Staff will 
-    
-    Run Bitcoin Diploma Sessions/Cohorts
-    
-    Run Bitcoin Mining and Hardware Wallets Workshops
-
-    Procure/Assemble Miners, Wallets, PiggyBanks for Sale
-
-+ Look into HydroPower from Whiteville Lake
-
-+ Bitcoin Service Partners
-
-    Swan Bitcoin - KYC Bitcoin Services
-    
-    The Bitcoin Way - Advanced Cybersecurity and Extra Residency Consultations
-
-    Mining funds go towards:
-    
-    Business Funding
-    
-      Spa
-    
-      Gym
-    
-      Library Funding
-    
-      Arcade
-    
-      Theater
-
-    Community Business Grants
-    
-    Community Need
+[Details](./Business.md)
 
 
------------------------------
-3rd Parties
------------------------------
-Mining Equipment Wholesellers/Resellers
+### Investment Payback and Profit Plan
 
+Miners
+Business
 
-Solar Supplier-
-    
-    Silicon Ranch Co
-    
-    Cholla
-    
-    sunwatts
-    
-
-Local Leaders
-    
-    County Commissioner
-    
-    Bolivar and Whiteville Mayors
-    
-    TVA / Bolivar Energy Authority / Southwest TN Electric
-
+[Details](./Mining.md)
 
 

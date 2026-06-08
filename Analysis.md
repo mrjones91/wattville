@@ -30,4 +30,5 @@ Info:
 ## Solar Farm
 
 Takeaways
+
 - BIG Industrial Scale Miners are running MULTI MW and GW sites with single digit EH/s output
