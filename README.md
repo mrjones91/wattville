@@ -20,7 +20,7 @@ Renewable Energy Generation and Monetization
 
 Business Innovation
     Server Colocation
-    Smart Community-Gym
+    Run Successful Smart Businesses
     Family Fun
 
 Education
@@ -34,24 +34,22 @@ Solar Power
 
 [Details](./Power.md)
 
-#### Business
+#### Business Innovations
 
-Event Center
+Payments
+Online Capabilities: Retrieve Up to Date info and compatible services
+Workflow Modernizations: Unify business needs across proprietary and commercial tools
+IT and Engineering Consulting and Project Management Services
 
-Semi-Private Strength Gym
-- 2 Squat Racks
-- Tonal System
-- Walking Routes
-- Semi-Annual Contests
-- Solar Powered
-- Smart Keys
-- App
+[Details](./Business.md)
 
 #### Education
 
 Restore Allen White High School to a Historic Site
 Financial Literacy - Assets, Monies, Strategy
 STEM Environment
+
+[Details](./Community.md)
 
 ### Revenue
     
@@ -65,6 +63,6 @@ STEM Environment
 Miners
 Business
 
-[Details](./Mining.md)
+[Details](./Phases.md)
 
 

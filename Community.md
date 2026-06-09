@@ -14,6 +14,10 @@
 
     1 MW and beyond -> Bitcoin Mine and TVA Approved Solar Farm
 
++ Restore Allen White
+
++ Build Jones Center
+
 + Build a locally supported ASIC Mining Pool
 
 + Recruit Support Staff
