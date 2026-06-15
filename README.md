@@ -2,7 +2,9 @@
 
 ## Objective:
 
-## Building an Enrichinged Living and Economic Experience in Rural TN
+## Build Enriched Living and Economic Experiences in Rural TN
+
+by combining Renewable Energy Infrastructure to run Profitable Bitcoin Mining that funds Technical Education and Quality First Ventures
 
 [## Building a Circular Bitcoin Economy with Solar Powered Immersion Cooled Mining Farms in Rural TN]::
 
@@ -16,7 +18,8 @@ By investing in renewable energy and utilizing modern technological resources, n
 
 Renewable Energy Generation and Monetization
     Run on Solar and other Renewable Power
-    Model for business and community
+    Model for Wealth Management and Circular Economy
+    Profits will sustain long term investments in additional businesses and the community
 
 Business Innovation
     Server Colocation
