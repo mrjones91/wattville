@@ -10,6 +10,7 @@ Target: 10 BTC / Year - > 3 Blocks
 
 - TVA Solar Farm
 
+Approximately $40k / 1 MW sold
 
 #### Products
 
@@ -28,13 +29,10 @@ Target 2.1 BTC / Year - $230,000 - 3834 banks
 Merchandise
 
 
-#### Streaming
+#### IT and Bitcoin Services
 
-
-
-#### Services
-
-
+Server Consultation
+Software 
 
 #### Crowdfunding
 

@@ -1,10 +1,18 @@
 # Wattville, TN
 
-## Objective:
+![](imgs/flyer00.jpg)
 
-## Build Enriched Living and Economic Experiences in Rural TN
+## What:
 
-by combining Renewable Energy Infrastructure to run Profitable Bitcoin Mining that funds Technical Education and Quality First Ventures
+### Solar Powered Data Center
+
+## Why:
+
+### To Enrich the Living and Economic Experiences in Whiteville, TN
+
+## How:
+
+### Utilize Affordable Renewable Energy to Power Compute Infrastructure for Profitable Bitcoin Mining that Grows the Business and is Reinvested into the Community
 
 [## Building a Circular Bitcoin Economy with Solar Powered Immersion Cooled Mining Farms in Rural TN]::
 
@@ -16,19 +24,30 @@ By investing in renewable energy and utilizing modern technological resources, n
 
 ### Components
 
-Renewable Energy Generation and Monetization
-    Run on Solar and other Renewable Power
-    Model for Wealth Management and Circular Economy
-    Profits will sustain long term investments in additional businesses and the community
+Bitcoin Standard
+    - Company's Primary Monetary Standard. Dollar-based accounting will be used where necessary.
+    - The primary savings and preferred commercial money
 
-Business Innovation
-    Server Colocation
-    Run Successful Smart Businesses
-    Family Fun
+Bitcoin Mining
+    - The primary compute load for the Data Center.
+    - Mining computers will operate by solar/battery power to not burden the grid.
+    - The upfront cost of equipment will be offset by ongoing bills and changing rates from the grid.
+    - The data gained from running off-grid can be used to provide a plan to connect to the grid to sell power/stable load at a later date.
 
-Education
-    STEM Environment and Courses
-    21st Century Financial Literacy
+Power
+    - Renewable Energy Generation and Monetization
+    - Run on Solar and Battery Power
+    - Model for Wealth Management and Circular Economy
+    - Profits will sustain long term investments in additional businesses and the community
+
+Community Enrichment 
+    - Business Innovation
+    - Server Colocation
+    - Run Successful Smart Businesses
+    - Family Friendly Ecosystem
+    Education
+        STEM Environment and Courses
+        21st Century Financial Literacy
 
 
 #### Power
@@ -37,16 +56,10 @@ Solar Power
 
 [Details](./Power.md)
 
-#### Business Innovations
 
-Payments
-Online Capabilities: Retrieve Up to Date info and compatible services
-Workflow Modernizations: Unify business needs across proprietary and commercial tools
-IT and Engineering Consulting and Project Management Services
 
-[Details](./Business.md)
 
-#### Education
+#### Community Enrichment
 
 Restore Allen White High School to a Historic Site
 Financial Literacy - Assets, Monies, Strategy
@@ -58,6 +71,11 @@ STEM Environment
     
 10-15 BTC/Year
 
+Payments
+Online Capabilities: Retrieve Up to Date info and compatible services
+Workflow Modernizations: Unify business needs across proprietary and commercial tools
+IT and Engineering Consulting and Project Management Services
+
 [Details](./Business.md)
 
 
@@ -68,4 +86,5 @@ Business
 
 [Details](./Phases.md)
 
-
+![](imgs/flyer01.jpeg)
+![](imgs/flyer02.jpeg)
