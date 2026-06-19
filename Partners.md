@@ -33,6 +33,24 @@ Solar Supplier-
     
     sunwatts
     
+    Tesla Commercial Energy - Lease to Own || Purchase
+
+Funding
+
+    Geyser.fund
+    Lightning Ventures
+    OpenSats
+    ThunderFunder
+    CypherTank
+    FulgurVentures
+    ego Death Capital
+    Axiom https://www.axiombtc.capital/
+    Bitcoin Opportunity Fund https://www.bitcoinopportunity.fund/
+    Ten31
+    Recursive Capital
+    PlebLab - StartUp School Accelerator - Dec-March
+    Black Ambition
+    EpiCenter - Capital Readiness Accelerator - Beginning of Year
 
 Local Leaders
     
@@ -41,4 +59,5 @@ Local Leaders
     Bolivar and Whiteville Mayors
     
     TVA / Bolivar Energy Authority / Southwest TN Electric
+
 

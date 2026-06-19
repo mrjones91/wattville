@@ -1,8 +1,9 @@
-# Large Public Businesses
+# Large Public Bitcoin Mining Businesses
 
 ## Mara
+
 Website: www.mara.com
-Investor Site: ir.mara.com
+Investor Site: [ir.mara.com](https://ir.mara.com)
 Info:
 - 17 centers
 - 58.9 EH/s
@@ -13,6 +14,8 @@ Info:
 - Powered by Wind and Grid
 
 ## Riot
+
+Site: [riotplatforms.com](https://www.riotplatforms.com/bitcoin-mining/)
 Info:
 - 3 centers (1 done - Rockdale, TX)
 - 1.2/2 GW - Actual / Potential Power Capacity
@@ -23,12 +26,18 @@ Info:
 
 # Small Mining Businesses
 
-## Voskcoin
+## [Voskcoin](https://www.youtube.com/VoskCoin)
 
-## Hobbyist Miner
+[Solar](https://www.youtube.com/playlist?list=PL4dnwHTjcf-9qfOEekcjPwqJqgkO455f-)
+
+[Mine Tours](https://www.youtube.com/playlist?list=PL4dnwHTjcf-8SXMDAoL7-XFkV6b4XUH3j)
+
+## [Hobbyist Miner](https://www.youtube.com/playlist?list=PLGzg4_j3gIAMCJYpH6YDVTTRzf6Ujjoro)
 
 ## Solar Farm
 
 Takeaways
 
-- BIG Industrial Scale Miners are running MULTI MW and GW sites with single digit EH/s output
+- BIG Industrial Scale Miners are running MULTI MW and GW sites with single digit EH/s hashrates
+- Miners with up to 1-10 EH/s can reliably mine 1 block anywhere between once a day and once a week.
+- 1 Block is worth 3.125 BTC until around April 2028

@@ -49,12 +49,18 @@ Community Enrichment
         STEM Environment and Courses
         21st Century Financial Literacy
 
+#### Bitcoin & Mining
+
+
+[Competitive Analysis](./Analysis.md)
+[Miners for Varying Price Points](./Scope.md)
+[Potential Phase Buildouts](./Phases.md)
 
 #### Power
 
-Solar Power
+For a full breakdown on the Solar System setup and specs refer to the Power Details below.
 
-[Details](./Power.md)
+[Solar System Details](./Power.md)
 
 
 
