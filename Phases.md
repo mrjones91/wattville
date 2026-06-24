@@ -12,9 +12,13 @@
     Solar System Equipment
 
     1 4kW system ~ $8000
+        
         10 400W panels
+        
         2 Batteries
+        
         Inverter
+        
         Additional Parts
 </details>
 
@@ -54,6 +58,8 @@
 
 
 1000 panels
+
 100 batteries
+
 30 miners
 
