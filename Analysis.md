@@ -3,8 +3,11 @@
 ## Mara
 
 Website: www.mara.com
+
 Investor Site: [ir.mara.com](https://ir.mara.com)
+
 Info:
+
 - 17 centers
 - 58.9 EH/s
 - 1109.4 MW
@@ -16,7 +19,9 @@ Info:
 ## Riot
 
 Site: [riotplatforms.com](https://www.riotplatforms.com/bitcoin-mining/)
+
 Info:
+
 - 3 centers (1 done - Rockdale, TX)
 - 1.2/2 GW - Actual / Potential Power Capacity
 - 500 MW Air Cooled
