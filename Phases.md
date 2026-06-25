@@ -4,22 +4,25 @@
 <details>
 
 <summary>Single Miner and Power Estimate</summary>
+    <ul>
+    <li>Miners</li>
 
-    Miners
+    <li>1 S21 300TH/s Immersion Cooled Miner ~ $7000</li>
 
-    1 S21 300TH/s Immersion Cooled Miner ~ $7000
+    <li>Solar System Equipment</li>
 
-    Solar System Equipment
-
-    1 4kW system ~ $8000
+    <li>1 4kW system ~ $8000</li>
         
-        10 400W panels
+        <ul>
+        <li>10 400W panels</li>
         
-        2 Batteries
+        <li>2 Batteries</li>
         
-        Inverter
+        <li>Inverter</li>
         
-        Additional Parts
+        <li>Additional Parts</li>
+        </ul>
+    </ul>
 </details>
 
 <h4>~ $15k = 300TH/s , 4kW</h4>
@@ -30,32 +33,32 @@
 
 <h6>Phase1 - $30k in equipment costs</h6>
 
-<ol>
+<ul>
     <li>
         .5PH / 500TH
     </li>
     <li>2 500TH / 5 200TH miners </li>
     <li>$15k for each miner + panels (8kw) - 12kw solar system</li>
     <li>0 - 1 blocks / year   - 1% chance</li>
-</ol>
+</ul>
 
 
 
 <h6>Phase2</h6> 
-<ol>
+<ul>
     <li>1PH /1000TH</li>
     <li>Additional 8kw in solar - 20kw solar system</li>
     <li>0 - 1 blocks / year  - 6% chance / year</li>
-</ol>
+</ul>
 <h6>Phase3</h6>
-<ol>
+<ul>
 <li>5PH / 5000TH</li>
 <li>Additional 8kw in solar - 28kw solar system</li>
 <li>0 - 1 blocks / year - 25% chance / year </li>
-</ol>
+</ul>
 
 <h6>Phase4</h6>
-<ol>
+<ul>
 <li>
     10PH / 10000TH
 </li>
@@ -65,12 +68,12 @@
 <li>
     0 - 1 blocks / year - 50% chance / year 
 </li>
-</ol>
+</ul>
 
 
 
 <h6>Phase5 - $150k Total in Equipment</h6>
-<ol>
+<ul>
 <li>
     15PH / 15000TH
 </li>
@@ -80,7 +83,7 @@
 <li>
     1 - 3 blocks / year - 100% chance / year
 </li>
-</ol>
+</ul>
 
 
 
