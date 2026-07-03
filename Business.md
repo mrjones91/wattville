@@ -4,9 +4,15 @@
 
 - Solar Bitcoin Mine
 
-Target: 10 BTC / Year - > 3 Blocks
+Target: 10-20 BTC / Year - > 3- Blocks
 
-1 MW ~ 70-80 PH/s ~ 2 BTC / Year
+Resources: 1 MW of Solar Power ~ 70-80 PH/s of Mining Power ~ 2 BTC / Year in Revenue
+
+Cost: 
+    
+    $1 Million for Solar Array, Power Inverters, Batteries, etc.
+
+    $250,000 in Mining Equipment
 
 - TVA Solar Farm
 

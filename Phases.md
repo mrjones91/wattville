@@ -14,7 +14,7 @@
     <li>1 4kW system ~ $8000</li>
         
         <ul>
-        <li>10 400W panels</li>
+        <lI waited on the line for 5 minutes. Let me know what time would work better for you for rescheduling.i>10 400W panels</li>
         
         <li>2 Batteries</li>
         
@@ -25,13 +25,13 @@
     </ul>
 </details>
 
-<h4>~ $15k = 300TH/s , 4kW</h4>
+<h4> Single Miner ~ $15k = 300TH/s hashrate, 4kW solar</h4>
 
 <details>
 
 <summary>Goal of Mining 1 Block / Year = 15 PH / 15000 TH</summary>
 
-<h6>Phase1 - $30k in equipment costs</h6>
+<h6>Phase1 - $15-30k in new equipment costs</h6>
 
 <ul>
     <li>
@@ -44,20 +44,20 @@
 
 
 
-<h6>Phase2</h6> 
+<h6>Phase2 - up to $15-60k in new equipment</h6> 
 <ul>
     <li>1PH /1000TH</li>
     <li>Additional 8kw in solar - 20kw solar system</li>
     <li>0 - 1 blocks / year  - 6% chance / year</li>
 </ul>
-<h6>Phase3</h6>
+<h6>Phase3 - $30-100k</h6>
 <ul>
 <li>5PH / 5000TH</li>
 <li>Additional 8kw in solar - 28kw solar system</li>
 <li>0 - 1 blocks / year - 25% chance / year </li>
 </ul>
 
-<h6>Phase4</h6>
+<h6>Phase4 - $50-100k</h6>
 <ul>
 <li>
     10PH / 10000TH
