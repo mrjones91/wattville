@@ -32,6 +32,8 @@ By investing in renewable energy and utilizing modern technological resources, n
 
 - Wattville will provide resources, support, and opportunity to enable community members to opt into living more on a Bitcoin Standard than a USD Standard.
 
+Learn more about what to expect as you shift from the Dollar Standard to a Bitcoin Standard [here](./BitcoinLifecycle.md)
+
 #### Bitcoin Mining
 
 Info
