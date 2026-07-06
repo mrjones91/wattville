@@ -26,13 +26,15 @@ Loosely speaking, as you transition from living in a US Dollar denominated minds
 
 3c. Study Bitcoin and Money with resources like the [Bitcoin Diploma](https://myfirstbitcoin.org/learn/programs)
 
-4. Buy a Home/Business Server
+4. Use a Home/Business Servers
 
 4a. Bitcoin Node for additional security and privacy.
 
 4b. Media Storage / NAS to control your access to your own memories and entertainment.
 
 4c. Secure Communication with your networks on your terms.
+
+4d. Run your own AI and reduce your reliance on hyperscaled data centers that will use your compute and data against you.
 
 5. Mine Bitcoin
 
