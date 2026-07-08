@@ -20,6 +20,8 @@ Approximately $40k / 1 MW sold
 
 #### Products
 
+(Manufacturing and Selling Direct)
+
 - Solo Mining Hardware Sales
 
 Target: .1 BTC / Year - $10,000 - 100 Bitaxes
@@ -32,7 +34,19 @@ Target: .21 BTC / Year - $24,145 - 300+ Wallets
 
 Target 2.1 BTC / Year - $230,000 - 3834 banks
 
-Merchandise
+(Affilate Sales)
+
+Umbrel
+    
+- Umbrel Home
+    
+- Umbrel Pro
+
+Amazon Affiliate
+
+- Laptops
+- Hardware
+- Anbernic Gaming Devices
 
 
 #### IT and Bitcoin Services
@@ -66,3 +80,4 @@ Smart Gym
 - Smart Keys
 - App
 
+Spa/Sauna/Massage Parlor
