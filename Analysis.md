@@ -1,4 +1,6 @@
-# Large Public Bitcoin Mining Businesses
+# Other Bitcoin Mining Businesses
+
+# Large Public Mining Companies
 
 ## Mara
 
@@ -41,8 +43,22 @@ Info:
 
 ## Solar Farm
 
+# Miscellaneous
+
+## Abundant Mines
+
+[Site](https://abundantmines.com/)
+
+Miner hosting on 100% hydroelectric power
+
 Takeaways
 
 - BIG Industrial Scale Miners are running MULTI MW and GW sites with single digit EH/s hashrates
 - Miners with up to 1-10 EH/s can reliably mine 1 block anywhere between once a day and once a week.
 - 1 Block is worth 3.125 BTC until around April 2028
+
+Innovative solutions with Renewable:
+
+- Sites currently expanding from low to high single digit MW
+- Main business is hosting miners to enable benefits for customers
+- 
