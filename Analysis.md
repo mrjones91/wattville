@@ -1,3 +1,19 @@
+# Similar Mining Businesses
+
+## Abundant Mines
+
+[Website](https://abundantmines.com/)
+
+Operates 100% on renewable energy
+
+Helps general population with easy access to Bitcoin mining
+
+## SazMining
+
+[Website](https://www.sazmining.com/)
+
+Bitcoin Mining As A Services
+
 # Other Bitcoin Mining Businesses
 
 # Large Public Mining Companies

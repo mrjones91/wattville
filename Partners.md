@@ -3,27 +3,38 @@ Potential Partners
 -----------------------------
 
 Mining Equipment Wholesellers/Resellers
+    
     Solo Satoshi
+    
     MinerBros
+    
     Amazon
+    
+    AsciMarketPlace
+
     Blockstream
+
         Mining?
+
         Energy? - Contacted
 
 
 Solar Supplier-
     
-    Freedom Solar - contacted - only in TX & FL
+    Tesla Commercial Energy - Lease to Own || Purchase
 
     ECG Solar - 
 
-    Pivot Energy - SENT - pivotenergy.net/clients land owner form
+    sunwatts
+
+    Sun Solar Memphis - SENT - https://sunsolarmemphis.com/contact/
+    
+    Memphis Solar Pros - SENT - https://memphissolarpros.com/residential-solar/
+    
+    <!-- Pivot Energy - SENT - pivotenergy.net/clients land owner form
 
     Synergy Solar https://synenergy.solar/contact-us/
 
-    Sun Solar Memphis - SENT - https://sunsolarmemphis.com/contact/
-
-    Memphis Solar Pros - SENT - https://memphissolarpros.com/residential-solar/
 
     XXXXX - New Leaf Energy - large scale 50+ acres
 
@@ -31,26 +42,48 @@ Solar Supplier-
     
     Cholla - SENT - Contact form to Ventures team
     
-    sunwatts
+    Freedom Solar - contacted - only in TX & FL -->
+
+# Funding
+
+    Geyser.fund https://geyser.fund/
+
+    Lightning Ventures https://ltng.ventures/
     
-    Tesla Commercial Energy - Lease to Own || Purchase
-
-Funding
-
-    Geyser.fund
-    Lightning Ventures
-    OpenSats
-    ThunderFunder
-    CypherTank
-    FulgurVentures
-    ego Death Capital
+    CypherTank https://www.cyphertank.org/
+    
     Axiom https://www.axiombtc.capital/
+    
     Bitcoin Opportunity Fund https://www.bitcoinopportunity.fund/
-    Ten31
-    Recursive Capital
+    
+    Ten31 https://www.ten31.xyz/
+
+    Growth Funding Group https://www.growthfundinggroup.com/bitcoin-mining-financing
+    
+    https://www.block.green/
+
+### Accelerators/Competitions
+
     PlebLab - StartUp School Accelerator - Dec-March
-    Black Ambition
+    
+
+    Black Ambition https://blackambitionprize.com/
+    
     EpiCenter - Capital Readiness Accelerator - Beginning of Year
+ 
+### Software Product Funders 
+    
+    ego Death Capital https://egodeath.capital
+
+    FulgurVentures https://fulgur.ventures/
+ 
+    OpenSats https://opensats.org
+
+    Recursive Capital - Software / Payments / Layer 2s https://www.rcrsv.xyz/
+
+    ThunderFunder - FOSS https://thunderfunder.com
+
+    https://www.rho.co/blog/vcs-in-bitcoin
 
 Local Leaders
     

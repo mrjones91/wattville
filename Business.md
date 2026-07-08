@@ -4,15 +4,23 @@
 
 - Solar Bitcoin Mine
 
-Target: 10 BTC / Year - > 3 Blocks
+Target: 10-20 BTC / Year - > 3- Blocks
 
-1 MW ~ 70-80 PH/s ~ 2 BTC / Year
+Resources: 1 MW of Solar Power ~ 70-80 PH/s of Mining Power ~ 2 BTC / Year in Revenue
+
+Cost: 
+    
+    $1 Million for Solar Array, Power Inverters, Batteries, etc.
+
+    $250,000 in Mining Equipment
 
 - TVA Solar Farm
 
 Approximately $40k / 1 MW sold
 
 #### Products
+
+(Manufacturing and Selling Direct)
 
 - Solo Mining Hardware Sales
 
@@ -26,7 +34,19 @@ Target: .21 BTC / Year - $24,145 - 300+ Wallets
 
 Target 2.1 BTC / Year - $230,000 - 3834 banks
 
-Merchandise
+(Affilate Sales)
+
+Umbrel
+    
+- Umbrel Home
+    
+- Umbrel Pro
+
+Amazon Affiliate
+
+- Laptops
+- Hardware
+- Anbernic Gaming Devices
 
 
 #### IT and Bitcoin Services
@@ -60,3 +80,4 @@ Smart Gym
 - Smart Keys
 - App
 
+Spa/Sauna/Massage Parlor
